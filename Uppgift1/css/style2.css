@@ -17,7 +17,7 @@ animation-duration: 3s;
 }
 .navbar-brand{
 font-family: 'Modak',Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-font-size: 2rem;
+font-size: 1.4rem;
 color: purple;
 }
 
@@ -37,14 +37,14 @@ text-align: center;
 
 h3{
 font-family: 'Orbitron', sans-serif;
-font-size: 1.3rem;
+font-size: 1.1rem;
 text-align: center;
 }
 
 
 h4{
 font-family: 'Orbitron', sans-serif;
-font-size: 1.3rem;
+font-size: 1rem;
 text-align: left;
 font-style: bold;
 color: purple;
@@ -215,30 +215,13 @@ justify-items: space-around;
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 @media screen and(max-width: 600px){ 
 .headline{
 margin-top: 3rem;
 font-size: 40px;
 text-align: center;
 font-family: 'Roboto', sans-serif;
-color:rgba(170, 65, 160, 0.699);
+color:rgba(143, 137, 142, 0.699);
 text-shadow: 0 30px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
 }
 }
